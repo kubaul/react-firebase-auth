@@ -1,0 +1,9 @@
+var firebaseConfig = {
+    apiKey: "AIzaSyALcsD-0N3EefaGIPKlcoZR4RCFj54oNtg",
+    authDomain: "localcouncil-rcds.firebaseapp.com",
+    databaseURL: "https://localcouncil-rcds-default-rtdb.e$
+    projectId: "localcouncil-rcds",
+    storageBucket: "localcouncil-rcds.appspot.com",
+    messagingSenderId: "648454152152",
+    appId: "1:648454152152:web:0653115bf976952d479cad"
+};
